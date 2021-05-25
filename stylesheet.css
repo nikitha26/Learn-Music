@@ -13,7 +13,7 @@ html {
 }
 .home{
     margin-top: 300px;
-    margin-left: 50px;
+    margin-left: 0px;
 }
 h1 {
     color: rgb(179,9,84);
@@ -51,6 +51,7 @@ h5{
 }
 .image{
     margin-top: 150px;
+    border: none;
 }
 .musictypes{
     background-image:url('image/milky-way-2675322_1280%20(1).png');
